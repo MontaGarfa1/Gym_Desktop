@@ -1,0 +1,17 @@
+/application/
+/controller/
+/controllerMember/
+/controllerMembership/
+/controllerSection/
+/controllerStaff/
+/css/
+/dao/
+/icon/
+/images/
+/model/
+/view/
+/viewCommon/
+/viewMember/
+/viewMembership/
+/viewSection/
+/viewStaff/
